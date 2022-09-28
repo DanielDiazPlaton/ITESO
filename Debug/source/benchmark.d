@@ -30,29 +30,17 @@ source/benchmark.o source/benchmark.d: ../source/benchmark.c \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/timing.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/md4.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/md5.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/ripemd160.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/sha1.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/sha256.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/sha512.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/arc4.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/des.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/des_alt.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/ksdk_mbedtls_config.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/aes.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/aes_alt.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/aria.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/platform_util.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/blowfish.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/camellia.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/chacha20.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/gcm.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/cipher.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/ccm.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/chachapoly.h \
+ D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/cipher.h \
+ D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/platform_util.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/poly1305.h \
- D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/cmac.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/havege.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/ctr_drbg.h \
+ D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/aes.h \
+ D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/aes_alt.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/hmac_drbg.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/md.h \
  D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/rsa.h \
@@ -94,29 +82,17 @@ D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbe
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/timing.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/md4.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/md5.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/ripemd160.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/sha1.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/sha256.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/sha512.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/arc4.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/des.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/des_alt.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/ksdk_mbedtls_config.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/aes.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/aes_alt.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/aria.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/platform_util.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/blowfish.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/camellia.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/chacha20.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/gcm.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/cipher.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/ccm.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/chachapoly.h:
+D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/cipher.h:
+D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/platform_util.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/poly1305.h:
-D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/cmac.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/havege.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/ctr_drbg.h:
+D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/aes.h:
+D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\port\ksdk/aes_alt.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/hmac_drbg.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/md.h:
 D:\Documentos\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_mbedtls_benchmark\mbedtls\include/mbedtls/rsa.h:
